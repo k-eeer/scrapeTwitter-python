@@ -42,4 +42,4 @@ class UserScraper:
 			tabCommand=f"firefox --new-tab {x[2]}"
 			os.system(tabCommand)						
 
-UserScraper.connectToMysql()
+
