@@ -3,7 +3,8 @@ from datetime import datetime
 import os,sys,mysql.connector
 from scrape import Scraper 
 
-def test_user_scrape():
+def test_user_scrape():	
+	
 	#arrange:準備變數值
 	expected=sys.argv[2]
 	result_list=[]
