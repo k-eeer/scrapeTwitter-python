@@ -2,9 +2,9 @@
 面對關心及更新較快的用戶更新內容，可以以此工具快速觀看推文回覆或是使用推文翻譯功能。
 此腳本將搜尋特定推特用戶名的三則最新推文，儲存至log文字檔，並以預設瀏覽器分頁分別自動開啟此三則推文。無須登入
     
-    $echo <username>|python scrape.py
+    $echo <username>|python scrape.py 例如 $echo TIME|python scrape.py
     或
-    $python scrape.py之後，待出現詢問句，再輸入用戶名+enter
+    $python scrape.py之後，待出現詢問句，再輸入<username>+enter
 
 # 運行環境:
   * Ubuntu 20.04 
