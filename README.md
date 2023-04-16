@@ -25,6 +25,8 @@
 
 ![image](https://github.com/k-eeer/scrapeTwitter-python/blob/main/scrapeDemo.png)
 
+使用者輸入用戶名後將自動打開三則最新推文的瀏覽器分頁，本次使用url可參考新產生的tweet.log
+
 若使用echo 提前輸入選擇，可略過此行，等待瀏覽器自動打開分頁
 
 
