@@ -23,6 +23,9 @@
 
 # 實際結果:
 
+![image](https://github.com/k-eeer/scrapeTwitter-python/blob/main/scrapeDemo.png)
+
+若使用echo 提前輸入選擇，可略過此行，等待瀏覽器自動打開分頁
 
 
 
